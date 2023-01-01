@@ -42,7 +42,7 @@ git clone https://github.com/Ayo-Osota/birthday-reminder.git
 2.Starting the Client application.
 
 ```bash
-cd hackathon-templete
+cd birthday-reminder
 # install all packages
 npm install
 # start the server
@@ -58,9 +58,9 @@ ex. [@Ayo_Osota](https://twitter.com/Ayo_Osota)
 ## Version History
 
 * I plan to update with more functionality
-* 0.2
+<!-- * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * See [commit change]() or See [release history]() -->
 * 0.1
     * Initial Release
 
