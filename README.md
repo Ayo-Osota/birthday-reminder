@@ -1,4 +1,4 @@
-# Project Title
+# Birthday Reminder
 
 Remind user of people's birthday
 
